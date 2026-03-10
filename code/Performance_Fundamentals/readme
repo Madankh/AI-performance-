@@ -1,0 +1,4 @@
+This baseline_performance.py file is a performance benchmarking framework for measuring how fast a neural network training loop runs. Let me break it down piece by piece.
+
+The code measures goodput meaning useful work done per second for a simple MLP (Multi-Layer Perceptron) training loop. 
+It's a baseline benchmark, meaning it's the starting point you compare optimizations against.
